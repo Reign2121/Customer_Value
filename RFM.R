@@ -95,3 +95,19 @@ df %>%
 ggplot(df, aes(Monetary_code)) +
   geom_bar(stat = "count", colour="white") +
   facet_grid(Recency_code ~ Frequency_code)
+
+
+# Using rfm package tool
+rfm_result <- rfm_table_order(
+  data = rfm_data_orders,
+  customer_id = customer_id,
+  revenue = revenue,
+  order_date = order_date,
+  analysis_date = as.Date("2012/01/01")
+)
+rfm_heatmap(rfm_result) 
+rfm_bar_chart(rfm_result)  
+rfm_rm_plot(rfm_result) 
+rfm_fm_plot(rfm_result) 
+rfm_rf_plot(rfm_result) 
+
