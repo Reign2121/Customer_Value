@@ -31,7 +31,7 @@ Z =  mean(df_full$Monetary)
 break_even = C/(m*Z)  #손익분기점을 넘기는 지점
 print(break_even)
 # The number of customers you should target
-sum(df_full$avg_email_open > break_even) #전체 203명이구나
+sum(df_full$avg_email_open > break_even) #전체 203
 
 ####################
 # Net contribution##
