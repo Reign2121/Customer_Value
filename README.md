@@ -2,4 +2,6 @@
 
 Recency, Frequency, Monetary
 
-one of the good way to evaluate "customers"
+one of the good ways to evaluate "customers"
+
+RFM Package in R & Targeting 
