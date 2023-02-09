@@ -1,4 +1,7 @@
-##Evaluating customer value
+## Evaluating customer value
+
+고겍가치를 평가하는 일은 매우 중요합니다.
+
 
 1.CLV computation
 
@@ -16,7 +19,7 @@ CLV = (1+d)*p/d+c
 
 __________
 
-2.RFM-analysis
+2.RFM
 
 Recency, Frequency, Monetary
 
