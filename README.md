@@ -1,4 +1,22 @@
-# RFM-analysis
+##Evaluating customer value
+
+1.CLV computation
+
+CLV
+
+r = response rate
+
+churn rate = 1 - r
+
+d = discount rate
+
+p is the average profit the customers will contribute in every period
+
+CLV = (1+d)*p/d+c
+
+__________
+
+2.RFM-analysis
 
 Recency, Frequency, Monetary
 
@@ -18,13 +36,3 @@ r = predicted response probability (Because of it, sometimes CLV is considered a
 C / m * E(Z) is the break-even response probability
 expected profit = M × E(Z) × r − C
 
-__________
-CLV
-
-churn rate = 1 - r
-
-d = discount rate
-
-p is the average profit the customers will contribute in every period
-
-CLV = (1+d)*p/d+c
