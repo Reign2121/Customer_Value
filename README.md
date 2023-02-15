@@ -48,7 +48,7 @@ it is one of the good ways to evaluate "customers"
 
 RFM Package in R & Targeting (same way as clv)
 
-![image](https://user-images.githubusercontent.com/121419113/218944384-2e62427d-077f-4cd5-95a0-2dce52ef7b84.png)
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/121419113/218955347-2a31d912-8347-4f25-a000-77582c5f7a13.png">
 
 
 __________
