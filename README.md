@@ -35,6 +35,9 @@ p is the average profit the customers will contribute in every period(mean)
 
 CLV = (1+d)*p/d+c
 
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/121419113/218955120-34d3cf08-8c02-4691-b5ae-01f54cdc2725.png">
+
+$
 __________
 
 2.RFM
